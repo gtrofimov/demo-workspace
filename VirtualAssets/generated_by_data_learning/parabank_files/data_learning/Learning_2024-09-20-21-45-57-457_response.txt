@@ -1,0 +1,13 @@
+--652iOobPbOaRPk8fmQpfdxG8B2fdAj0KO1jbgmsS
+Content-Type: text/plain; charset=UTF-8
+Timestamp: 1726868757000
+
+HTTP/1.1 200 
+Date: Fri, 20 Sep 2024 21:45:57 GMT
+Content-Type: application/json
+Content-Length: 245
+Transfer-Encoding: chunked
+Keep-Alive: timeout=20
+Connection: keep-alive
+
+[{"id":12700,"accountId":54321,"type":"Credit","date":1724889600000,"amount":1000.00,"description":"Funds Transfer Received"},{"id":12811,"accountId":54321,"type":"Debit","date":1724889600000,"amount":100.00,"description":"Funds Transfer Sent"}]

@@ -1,0 +1,11 @@
+--yjqGfKaCLSS9iVyLaCElmr99Tqf5x90xhI1TR18
+Content-Type: text/plain; charset=UTF-8
+Secure: false
+
+GET /accounts/12345/transactions/month/All/type/All HTTP/1.1
+accept: application/json
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/17.0.11
+connection: keep-alive
+

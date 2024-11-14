@@ -1,0 +1,13 @@
+--xrRXQ8Y5WkPbLIlMYtgpOGou0XZu9nz9eitMLM6
+Content-Type: text/plain; charset=UTF-8
+Timestamp: 1726868670000
+
+HTTP/1.1 200 
+Date: Fri, 20 Sep 2024 21:44:30 GMT
+Content-Type: application/json
+Content-Length: 245
+Transfer-Encoding: chunked
+Keep-Alive: timeout=20
+Connection: keep-alive
+
+[{"id":14254,"accountId":13344,"type":"Debit","date":1725926400000,"amount":1000.00,"description":"Funds Transfer Sent"},{"id":14365,"accountId":13344,"type":"Debit","date":1725926400000,"amount":1000.00,"description":"Funds Transfer Received"}]

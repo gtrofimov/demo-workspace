@@ -1,0 +1,13 @@
+--bZJv9P323ZSzF4qLO3KbzwEPg1Vh4HgQkc5sN4d
+Content-Type: text/plain; charset=UTF-8
+Timestamp: 1728677897000
+
+HTTP/1.1 200 
+Date: Fri, 11 Oct 2024 20:18:17 GMT
+Content-Type: application/json
+Content-Length: 61
+Transfer-Encoding: chunked
+Keep-Alive: timeout=20
+Connection: keep-alive
+
+{"id":13566,"customerId":12212,"type":"CHECKING","balance":0}

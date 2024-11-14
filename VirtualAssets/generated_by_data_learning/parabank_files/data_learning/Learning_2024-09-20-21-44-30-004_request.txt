@@ -1,0 +1,11 @@
+--riWmnkYiEpVGa6LhJfzBhOw7skKx9RE9Vc9XmPX
+Content-Type: text/plain; charset=UTF-8
+Secure: false
+
+GET /accounts/13344/transactions HTTP/1.1
+accept: application/json
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/17.0.11
+connection: keep-alive
+

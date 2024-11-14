@@ -1,0 +1,11 @@
+--oWCaVhP4OsyKmhTjgRQR01sEdHCzlbe
+Content-Type: text/plain; charset=UTF-8
+Secure: false
+
+POST /createAccount?customerId=12212&newAccountType=0&fromAccountId=12345 HTTP/1.1
+accept: application/json
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/17.0.11
+connection: keep-alive
+

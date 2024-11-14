@@ -1,0 +1,13 @@
+--j0b52tOMK5AcSNc0k2QUhPl4mAwQymZtaUl76
+Content-Type: text/plain; charset=UTF-8
+Timestamp: 1731001928000
+
+HTTP/1.1 200 
+Date: Thu, 07 Nov 2024 17:52:08 GMT
+Content-Type: application/json
+Content-Length: 394
+Transfer-Encoding: chunked
+Keep-Alive: timeout=20
+Connection: keep-alive
+
+[{"id":13344,"customerId":12212,"type":"CHECKING","balance":4672.93},{"id":13455,"customerId":12212,"type":"CHECKING","balance":-50.00},{"id":13566,"customerId":12212,"type":"LOAN","balance":850.00},{"id":13677,"customerId":12212,"type":"LOAN","balance":1000.00},{"id":13788,"customerId":12212,"type":"LOAN","balance":1000.00},{"id":13899,"customerId":12212,"type":"CHECKING","balance":100.00}]

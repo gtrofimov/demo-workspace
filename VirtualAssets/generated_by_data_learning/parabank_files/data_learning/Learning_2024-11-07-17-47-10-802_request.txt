@@ -1,0 +1,11 @@
+--UIlqnkXMQKykTwa89ybQd4W20HtLtwuKXpy
+Content-Type: text/plain; charset=UTF-8
+Secure: false
+
+POST /requestLoan?downPayment=150&amount=1000&fromAccountId=13455&customerId=12212 HTTP/1.1
+accept: application/json
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/21.0.4
+connection: keep-alive
+

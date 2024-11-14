@@ -1,0 +1,13 @@
+--WfCYmBOVsroZnhPvX3aQxilbewt3yOyxNyz0UFE
+Content-Type: text/plain; charset=UTF-8
+Timestamp: 1728677900000
+
+HTTP/1.1 200 
+Date: Fri, 11 Oct 2024 20:18:20 GMT
+Content-Type: application/json
+Content-Length: 125
+Transfer-Encoding: chunked
+Keep-Alive: timeout=20
+Connection: keep-alive
+
+[{"id":12478,"accountId":12789,"type":"Credit","date":1727308800000,"amount":100.00,"description":"Funds Transfer Received"}]

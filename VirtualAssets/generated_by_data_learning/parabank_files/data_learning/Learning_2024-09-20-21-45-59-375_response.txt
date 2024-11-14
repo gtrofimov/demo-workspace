@@ -1,0 +1,13 @@
+--mt924zv7a28MWb7r0oEy1WpanSaJpW8cwi
+Content-Type: text/plain; charset=UTF-8
+Timestamp: 1726868759000
+
+HTTP/1.1 200 
+Date: Fri, 20 Sep 2024 21:45:59 GMT
+Content-Type: application/json
+Content-Length: 1315
+Transfer-Encoding: chunked
+Keep-Alive: timeout=20
+Connection: keep-alive
+
+[{"id":12145,"accountId":12345,"type":"Credit","date":1702252800000,"amount":300.00,"description":"Check # 1111"},{"id":12256,"accountId":12345,"type":"Debit","date":1702339200000,"amount":100.00,"description":"Check # 1211"},{"id":12589,"accountId":12345,"type":"Debit","date":1724889600000,"amount":1000.00,"description":"Funds Transfer Sent"},{"id":13255,"accountId":12345,"type":"Debit","date":1725235200000,"amount":100.00,"description":"Funds Transfer Sent"},{"id":13477,"accountId":12345,"type":"Debit","date":1725235200000,"amount":1000.00,"description":"Funds Transfer Sent"},{"id":13699,"accountId":12345,"type":"Debit","date":1725321600000,"amount":0.00,"description":"Funds Transfer Sent"},{"id":14143,"accountId":12345,"type":"Debit","date":1725494400000,"amount":1000.00,"description":"Bill Payment to Bank of America Visa"},{"id":14476,"accountId":12345,"type":"Debit","date":1726790400000,"amount":100.00,"description":"Funds Transfer Sent"},{"id":14698,"accountId":12345,"type":"Debit","date":1726790400000,"amount":100.00,"description":"Funds Transfer Sent"},{"id":14920,"accountId":12345,"type":"Debit","date":1726790400000,"amount":100.00,"description":"Funds Transfer Sent"},{"id":15142,"accountId":12345,"type":"Debit","date":1726790400000,"amount":100.00,"description":"Funds Transfer Sent"}]

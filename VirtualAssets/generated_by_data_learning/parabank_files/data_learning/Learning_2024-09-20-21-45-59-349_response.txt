@@ -1,0 +1,13 @@
+--FHQz2nMBbH4Dg4nVmP1n4IMRfjYwu4Xl4f
+Content-Type: text/plain; charset=UTF-8
+Timestamp: 1726868759000
+
+HTTP/1.1 200 
+Date: Fri, 20 Sep 2024 21:45:59 GMT
+Content-Type: application/json
+Content-Length: 68
+Transfer-Encoding: chunked
+Keep-Alive: timeout=20
+Connection: keep-alive
+
+{"id":12345,"customerId":12212,"type":"CHECKING","balance":-2700.00}
